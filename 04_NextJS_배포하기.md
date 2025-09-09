@@ -13,3 +13,13 @@
 - https://github.com/moonjongjs/next_blue.git
 
 
+git init
+git config user.name 'moonjongjs'
+git config user.email 'moonseonjong@naver.com'
+git remote add origin https://github.com/moonjongjs/next_blue.git
+git add .
+git commit -m 'Next SSR Vercel Deploy'
+git push origin master
+
+git branch moon
+git branch jong
