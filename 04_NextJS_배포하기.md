@@ -21,5 +21,22 @@ git add .
 git commit -m 'Next SSR Vercel Deploy'
 git push origin master
 
+git checkout -b moon
+
 git branch moon
 git branch jong
+git branch jong
+
+git branch
+git branch -r
+
+
+
+git add .
+git commit -m 'Branch moon'
+git push origin moon
+
+
+git add .
+git commit -m '섹션2 배너 썸네일 참새이미지로 변경'
+git push origin moon
